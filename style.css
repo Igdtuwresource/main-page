@@ -9,7 +9,7 @@
   .wrapper.two {
    
     font-size: 6rem;
-    font-family: "Play", sans-serif;
+	font-family: 'Exo 2', sans-serif;
 }
 .button{
 	color:white;
@@ -38,13 +38,13 @@
         color: #f5efcb;
     }
     50% {
-        text-shadow: 0 0 2px #450239, 0 0 5px #440238, 0 0 5px #3e0233, 0 0 5px #540445, 0 0 2px #420337, 4px 4px 2px #3b0231;
-        color: #eda0d3;
+        text-shadow: 0 0 2px #433404, 0 0 5px #433404, 0 0 5px #433404, 0 0 5px #433404, 0 0 2px #433404, 4px 4px 2px #433404;
+        color: #eb9cce;
     }
 }
 
   body {
-	background:url('https://4kwallpapers.com/images/walls/thumbs_2t/4523.jpg');
+	background:url('neon.jpg');
 		background-size: cover;
 	background-attachment: fixed;
 	color: #071F30;
